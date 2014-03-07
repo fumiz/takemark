@@ -1,0 +1,10 @@
+{
+  "name": "takemark",
+  "version": "0.1.0",
+  "author": "fumizp <fumizp@gmail.com>",
+  "description": "A simple markdown indexer for document author",
+  "dependencies" : {
+    "markdown":  "*"
+  },
+  "license": "MIT"
+}
